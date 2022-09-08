@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+You need to get an API key from https://api.openweathermap.org/ and paste it in App.js in the API_KEY variable
+
 ### `npm start`
 
 Runs the app in the development mode.\

@@ -9,7 +9,7 @@ import WeatherInfo from "./components/weatherInfo/WeatherInfo";
 import "./App.css";
 
 const API_URL_WEATHER = "https://api.openweathermap.org/data/2.5/weather";
-const API_KEY = "35daf224959660eff9e7e52fc803ee5d";
+const API_KEY = ""; //GET API KEY FROM API.OPENWEATHERMAP.ORG
 
 function App() {
   const [isLoading, setIsLoading] = useState(false);
