@@ -2,9 +2,11 @@
 
 ## Intructions for demo
 
-1.- Clone the repository
-2.- You need to get an API key from https://api.openweathermap.org/ and paste it in App.js in the API_KEY variable
-3.- Execute the following commands:
+Clone the repository
+
+You need to get an API key from https://api.openweathermap.org/ and paste it in App.js in the API_KEY variable
+
+Execute the following commands:
 
 ### `npm install`
 
